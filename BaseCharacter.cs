@@ -1,6 +1,6 @@
 ﻿namespace DnD_8_bits_of_DESPAIR
 {
-    internal abstract class BaseCharacter
+    internal /*abstract*/ class BaseCharacter
     {
         public string name = "";
         int health = 100;
