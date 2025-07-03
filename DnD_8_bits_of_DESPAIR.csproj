@@ -48,6 +48,7 @@
     <Compile Include="Dice.cs" />
     <Compile Include="Dwarf.cs" />
     <Compile Include="Elf.cs" />
+    <Compile Include="FirstLocation.cs" />
     <Compile Include="Human.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
